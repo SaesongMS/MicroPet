@@ -18,7 +18,14 @@ Pet minigame slightly inspired by Tmagotchi for esp32
 ![image](https://github.com/SaesongMS/MicroPet/assets/84674130/d5a3ffe4-0d13-4ec5-88ed-d81040e9ebcd)
 ![image](https://github.com/SaesongMS/MicroPet/assets/84674130/c7863496-162c-47a5-b02c-274deb1f28b1)
 ![Dead pet](https://imgur.com/2Fp2Beu.jpeg)
+- **Sprites**
+
+![spritesheet](https://github.com/SaesongMS/MicroPet/assets/86264882/634bb3a2-f882-48bc-a7ab-c0295519641b)
 
 ## Conection diagram
 soon™
 
+##
+This project was created and maintained by 
+- [SaesonMS](https://github.com/SaesongMS) 
+- [tomciawski](https://github.com/tomciawski)
