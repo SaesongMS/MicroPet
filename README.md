@@ -19,8 +19,6 @@ Pet minigame slightly inspired by Tmagotchi for esp32
 ![image](https://github.com/SaesongMS/MicroPet/assets/84674130/c7863496-162c-47a5-b02c-274deb1f28b1)
 ![Dead pet](https://imgur.com/2Fp2Beu.jpeg)
 
-
-
-
-
+## Conection diagram
+soon™
 
